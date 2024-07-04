@@ -1081,6 +1081,7 @@ MonoBehaviour:
   speed: 10
   countText: {fileID: 1994089824}
   winTextObject: {fileID: 1457174895}
+  count: 0
 --- !u!114 &541647707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3419,6 +3420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3249191f6fce4a6439522b3778be1381, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 541647700}
   sceneBuildIndex: 1
 --- !u!65 &1768318944
 BoxCollider:
