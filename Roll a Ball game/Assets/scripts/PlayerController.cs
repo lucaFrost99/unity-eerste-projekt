@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public GameObject winTextObject;
     
     private Rigidbody rb;
-    private int count;
+    public int count;
     private float movementX;
     private float movementY;
 
